@@ -4,7 +4,7 @@
   },
   "name": "ss-backbone",
   "description": "Backbone backend for SocketStream",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./index.js",
   "dependencies": {},
   "devDependencies": {},
